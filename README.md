@@ -28,7 +28,7 @@ This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>Updated Tips for collapsed sections</summary>
 
 ### You can add a header
 
