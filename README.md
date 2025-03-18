@@ -48,3 +48,5 @@ You can add an image or a code block, too.
 | :----------- | :------------: | ------------: |
 | git status   |   git status   |    git status |
 | git diff     |    git diff    |      git diff |
+
+Last updated 20th March 2025
